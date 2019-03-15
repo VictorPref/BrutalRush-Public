@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PosSpawn
+  - P1
+  - P2
+  - P3
+  - P4
+  - UIGame
+  - UIInfoPlayer
+  - UILifeBar
+  - UIEnergyBar
+  - UINbLife
+  - ItemSpawn
+  - UIPlayerImage
+  - UICharacterSelection
+  - UIPlayersSelection
+  - Ready
+  - UISelection
+  - item
+  - SpecialBar
+  - UINumPlayer
+  - Text
+  - Image
+  - aura
+  - shield
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - bg_fg
+  - Player
+  - Item
+  - Level
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
